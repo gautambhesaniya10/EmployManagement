@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "gb1@gmail.com",
+      "password": "11",
+      "id": 1
+    },
+    {
+      "email": "manugb@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "subham.ojha24@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "patel@gmail.com",
+      "password": "11",
+      "id": 4
+    },
+    {
+      "email": "gb@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "email": "gb1111@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
